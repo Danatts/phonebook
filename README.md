@@ -9,6 +9,8 @@ Simple API CRUD excercise with ExpressJs.
 
 ## Excercises
 
+All the code is in [app.js file](./app.js)
+
 ### Excercise 1
 
 Return an array with phone book entries.
